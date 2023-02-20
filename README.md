@@ -4,4 +4,4 @@ Este é um repositório para guardar as soluções dos exercícios propostos das
 
 ## Linguaguem
 
-A linguaguem escolhida por essaas disciplinas é o Python.
+A linguaguem escolhida por essas disciplinas é o Python.
