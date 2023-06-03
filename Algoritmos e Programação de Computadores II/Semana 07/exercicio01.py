@@ -1,4 +1,4 @@
-# GUI - Interfaces gráficas
+# GUI - Interfaces gráficas (textos)
 
 from tkinter import Tk, Label
 
